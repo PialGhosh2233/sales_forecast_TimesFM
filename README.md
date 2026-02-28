@@ -14,9 +14,9 @@ This project demonstrates a zero/few-shot time-series forecasting for monthly sa
 ![Forecast Plot](sales_quantity.png)
 
 ## TimeFM model details:
-You will find the information of the model here: (Google TimesFM)[https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/]
+You will find the information of the model here: https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/
 
-Hugging Face documentation: (Hugging Face)[https://huggingface.co/docs/transformers/en/model_doc/timesfm]
+Hugging Face documentation: https://huggingface.co/docs/transformers/en/model_doc/timesfm
 
 
 
