@@ -14,9 +14,10 @@ This project demonstrates a zero/few-shot time-series forecasting for monthly sa
 ![Forecast Plot](sales_quantity.png)
 
 ## TimeFM Model Details
-You will find the information of the model here: https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/
 
-Hugging Face documentation: https://huggingface.co/docs/transformers/en/model_doc/timesfm
+- You will find the information of the model here: https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/
+
+- Hugging Face documentation: https://huggingface.co/docs/transformers/en/model_doc/timesfm
 
 
 
@@ -25,6 +26,8 @@ Hugging Face documentation: https://huggingface.co/docs/transformers/en/model_do
 - `timesfm_v2.ipynb` - Main notebook containing data prep, model inference, and plotting.
 - `sales_quantity.png` - Forecast visualization output.
 
+## Dataset
+- Kaggle link: https://www.kaggle.com/datasets/podsyp/time-series-starter-dataset
 ## Dataset Requirements
 
 The notebook expects a CSV file containing at least:
